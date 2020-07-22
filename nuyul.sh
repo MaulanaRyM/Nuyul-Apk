@@ -1,7 +1,7 @@
 #!/system/bin/bash"
 clear
 echo "\033[90m"
-read -p "Subscribe My Chanel [ y/t ] : " d;
+read -p "Muhas Sabang [ y/t ] : " d;
 if [ $d = "y" ]:
 then
    echo "\033[1;93mLoading\033[90m...\033[1;97m"
